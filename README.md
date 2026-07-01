@@ -36,7 +36,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-[!Walkthrough](https://github.com/SwellEquation/Bolt-Bucket/blob/main/Walkthrough.gif)
+![Walkthrough](https://github.com/SwellEquation/Bolt-Bucket/blob/main/Walkthrough.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with freeconvert.com  GIF tool here
