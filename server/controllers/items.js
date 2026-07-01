@@ -19,7 +19,7 @@ const calcPrice = ({ exterior_color, wheel_type, interior, engine, performance_p
 
 const validateCombo = (engine, performance_package) => {
   if (engine === 'electric' && performance_package === 'turbo_kit') {
-    return 'Electric engines are incompatible with a turbo kit — electric motors cannot be turbocharged.'
+    return 'Electric engines are incompatible with a turbo kit, electric motors cannot be turbocharged.'
   }
   return null
 }
